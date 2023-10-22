@@ -2,8 +2,7 @@
 Apresentação de Redes Convergentes referente a capturar tráfego SIP.
 
 ![image](https://github.com/larissalg9/Capturar-trafego-SIP-/assets/58262383/30f94776-a605-47de-9432-07aa2bff167b)
-
-![image](https://github.com/larissalg9/Capturar-trafego-SIP-/assets/58262383/ed5ddabb-06cd-4987-980f-4300fa159821)
+![image](https://github.com/larissalg9/Capturar-trafego-SIP-/assets/58262383/a9611707-5dc9-405c-b6e0-49a1904c0dd4)
 
 
 
