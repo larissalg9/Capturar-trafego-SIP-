@@ -44,11 +44,11 @@ Como instalar o wireshark -
 Captura no sngrep -
 
 Recebendo a ligação
+![image](https://github.com/larissalg9/Capturar-trafego-SIP-/assets/58262383/66d3a015-88fe-4a7e-a170-cabc5d80ba21)
 ![image](https://github.com/larissalg9/Capturar-trafego-SIP-/assets/58262383/c216520e-9da7-4285-a5af-9763540ae4c6)
 
 Conexão aceita 
 ![image](https://github.com/larissalg9/Capturar-trafego-SIP-/assets/58262383/5fcb81a1-96ea-490e-a2c7-4dec3bc82baf)
-
 ![image](https://github.com/larissalg9/Capturar-trafego-SIP-/assets/58262383/5ac1ffee-2dc5-499b-a273-0f6af13e382f)
 
 Fim fa conexão
@@ -66,13 +66,6 @@ Conexão aceita
 Fim fa conexão
 ![image](https://github.com/larissalg9/Capturar-trafego-SIP-/assets/58262383/8f3478a2-fff8-4025-8e35-9e26fc7d17b2)
 
-
-
-![image](https://github.com/larissalg9/Capturar-trafego-SIP-/assets/58262383/58dfa939-0793-4824-8f9c-6c52e411eda7)
-
-![image](https://github.com/larissalg9/Capturar-trafego-SIP-/assets/58262383/6806729d-7d94-4347-ba85-db4f8c7c9f2c)
-
-![image](https://github.com/larissalg9/Capturar-trafego-SIP-/assets/58262383/dd81f5bd-c7c8-4f89-92e3-82183882e33f)
 
 
 
