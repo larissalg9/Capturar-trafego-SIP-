@@ -44,7 +44,7 @@ Como instalar o wireshark -
 Captura no sngrep -
 
 Recebendo a ligação
-![image](https://github.com/larissalg9/Capturar-trafego-SIP-/assets/58262383/66d3a015-88fe-4a7e-a170-cabc5d80ba21)
+![image](https://github.com/larissalg9/Capturar-trafego-SIP-/assets/58262383/a6b27275-f84c-4055-9d7e-804ae6d65eb8)
 ![image](https://github.com/larissalg9/Capturar-trafego-SIP-/assets/58262383/c216520e-9da7-4285-a5af-9763540ae4c6)
 
 Conexão aceita 
