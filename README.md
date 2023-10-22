@@ -25,8 +25,7 @@ FreePBX -
 Configuração da máquina
 
 ![image](https://github.com/larissalg9/Capturar-trafego-SIP-/assets/58262383/21e30994-98b8-4c50-b8f6-f291d38a836b)
-![image](https://github.com/larissalg9/Capturar-trafego-SIP-/assets/58262383/b3ec1ffe-bc1d-4018-a06a-92844a623634)
-
+![image](https://github.com/larissalg9/Capturar-trafego-SIP-/assets/58262383/e5bdcf09-4d54-4834-99ad-887f607696b8)
 ![image](https://github.com/larissalg9/Capturar-trafego-SIP-/assets/58262383/ff7b0386-baea-4a57-9ad0-521866646319)
 
 
