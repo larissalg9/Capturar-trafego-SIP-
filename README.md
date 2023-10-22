@@ -68,6 +68,13 @@ Fim fa conexão
 
 
 
+![image](https://github.com/larissalg9/Capturar-trafego-SIP-/assets/58262383/58dfa939-0793-4824-8f9c-6c52e411eda7)
+
+![image](https://github.com/larissalg9/Capturar-trafego-SIP-/assets/58262383/6806729d-7d94-4347-ba85-db4f8c7c9f2c)
+
+![image](https://github.com/larissalg9/Capturar-trafego-SIP-/assets/58262383/dd81f5bd-c7c8-4f89-92e3-82183882e33f)
+
+
 
 
 
