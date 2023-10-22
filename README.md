@@ -24,7 +24,7 @@ FreePBX -
 
 Softfone - 
 
-![image](https://github.com/larissalg9/Capturar-trafego-SIP-/assets/58262383/a9ffdbe0-8b9e-4b74-8d23-e744c5765267)
+![image](https://github.com/larissalg9/Capturar-trafego-SIP-/assets/58262383/4885d13e-8427-4f85-a3b5-33219efbfa85)
 
 
 Configuração da máquina
