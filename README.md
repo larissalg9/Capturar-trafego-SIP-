@@ -1,6 +1,11 @@
 # Capturar-trafego-SIP-
 Apresentação de Redes Convergentes referente a capturar tráfego SIP.
 
+![image](https://github.com/larissalg9/Capturar-trafego-SIP-/assets/58262383/64f1b311-fcb5-4ef4-9d4c-ef0d92a2c0aa)
+![image](https://github.com/larissalg9/Capturar-trafego-SIP-/assets/58262383/ed5ddabb-06cd-4987-980f-4300fa159821)
+
+
+
 Oque seria o SIP?
 
 
