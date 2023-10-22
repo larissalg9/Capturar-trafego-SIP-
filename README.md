@@ -14,8 +14,22 @@ Quais a vantagens de capturar a protocolo SIP?
 
 Ambiente de teste
 
+Asterick - 
+
+![image](https://github.com/larissalg9/Capturar-trafego-SIP-/assets/58262383/007a3dfd-3385-4ba7-bea5-48937f8ccf38)
+
+FreePBX -
+
+![image](https://github.com/larissalg9/Capturar-trafego-SIP-/assets/58262383/b8d42f40-c634-47b3-ba06-147e2adc8526)
+
 Configuração da máquina
-![image](https://github.com/larissalg9/Capturar-trafego-SIP-/assets/58262383/6aaedf79-25f9-4d14-87eb-0f60aa2dba63)
+
+![image](https://github.com/larissalg9/Capturar-trafego-SIP-/assets/58262383/21e30994-98b8-4c50-b8f6-f291d38a836b)
+![image](https://github.com/larissalg9/Capturar-trafego-SIP-/assets/58262383/b3ec1ffe-bc1d-4018-a06a-92844a623634)
+
+![image](https://github.com/larissalg9/Capturar-trafego-SIP-/assets/58262383/ff7b0386-baea-4a57-9ad0-521866646319)
+
+
 
 Como instalar sngrep
 
