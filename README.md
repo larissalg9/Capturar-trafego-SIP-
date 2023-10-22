@@ -37,7 +37,35 @@ Configuração da máquina
 Como instalar sngrep - 
 
 
+
 Como instalar o wireshark - 
+
+
+Captura no sngrep -
+
+Recebendo a ligação
+![image](https://github.com/larissalg9/Capturar-trafego-SIP-/assets/58262383/c216520e-9da7-4285-a5af-9763540ae4c6)
+
+Conexão aceita 
+![image](https://github.com/larissalg9/Capturar-trafego-SIP-/assets/58262383/5fcb81a1-96ea-490e-a2c7-4dec3bc82baf)
+
+![image](https://github.com/larissalg9/Capturar-trafego-SIP-/assets/58262383/5ac1ffee-2dc5-499b-a273-0f6af13e382f)
+
+Fim fa conexão
+![image](https://github.com/larissalg9/Capturar-trafego-SIP-/assets/58262383/52eb0535-9285-401b-a888-f2aa3ccd3d03)
+![image](https://github.com/larissalg9/Capturar-trafego-SIP-/assets/58262383/72eae276-6508-46f1-99d5-096834e4f593)
+
+Captura no wireshark -
+
+Recebendo a ligação
+![image](https://github.com/larissalg9/Capturar-trafego-SIP-/assets/58262383/efe0899a-03f6-41c1-bb6f-437fbc73888a)
+
+Conexão aceita 
+![image](https://github.com/larissalg9/Capturar-trafego-SIP-/assets/58262383/7d28b386-a847-4e41-8335-3963325693c6)
+
+Fim fa conexão
+![image](https://github.com/larissalg9/Capturar-trafego-SIP-/assets/58262383/8f3478a2-fff8-4025-8e35-9e26fc7d17b2)
+
 
 
 
