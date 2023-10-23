@@ -2,17 +2,19 @@
 Apresentação de Redes Convergentes referente a capturar tráfego SIP.
 
 Oque seria o SIP?
-
-
+O protocolo SIP é utilizado em chamadas de voz sobre IP ou VoIP. Isso permite que dois usuários se conectem e realizem uma comunicação, através de dois dispositivos, e assim se realizar a comunicação através de uma rede IP.
 
 Topologia de uma rede com implementação de SIP -
 ![image](https://github.com/larissalg9/Capturar-trafego-SIP-/assets/58262383/a9611707-5dc9-405c-b6e0-49a1904c0dd4)
 
-Quais a vantagens de capturar a protocolo SIP?
+Quais são as vantagens de utlizar SIP?
 
+Além de deixar o preço das ligações telefônicas mais baratas, o VoIP ainda permite que várias chamadas ocupam o mesmo espaço que é preenchido somente por uma ligação na telefonia tradicional, todas essas ligações feitas por meio do SIP podem ser armazenadas. Inclusive, como essas chamadas estarão associadas ao registro do usuário, é possível saber quem as fez e quem recebeu. Assim, tem-se um controle maior das informações. Também é uma maneira de garantir a segurança dos dados.
+Qual é a necessidade de capturar a protocolo SIP?
+
+![image](https://github.com/larissalg9/Capturar-trafego-SIP-/assets/58262383/3dcf6d61-ee6a-4fcb-bb69-8c333f26464c)
 
 Ambiente de teste -
-
 
 ![image](https://github.com/larissalg9/Capturar-trafego-SIP-/assets/58262383/30f94776-a605-47de-9432-07aa2bff167b)
 
