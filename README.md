@@ -12,7 +12,7 @@ Quais são as vantagens de utlizar SIP?
 
 Além de deixar o preço das ligações telefônicas mais baratas, o VoIP ainda permite que várias chamadas ocupam o mesmo espaço que é preenchido somente por uma ligação na telefonia tradicional, todas essas ligações feitas por meio do SIP podem ser armazenadas. Inclusive, como essas chamadas estarão associadas ao registro do usuário, é possível saber quem as fez e quem recebeu. Assim, tem-se um controle maior das informações. Também é uma maneira de garantir a segurança dos dados.
 
-![image](https://github.com/larissalg9/Capturar-trafego-SIP-/assets/58262383/41bf1c75-63cf-40fe-b6f4-a2cd7ad47c12)
+![image](https://github.com/larissalg9/Capturar-trafego-SIP-/assets/58262383/70ab1d87-a9de-4b66-935c-1e9e00c9b9f2)
 
 Qual é a necessidade de capturar o tráfico do protocolo SIP?
 
@@ -22,6 +22,8 @@ Qual é a necessidade de capturar o tráfico do protocolo SIP?
 
 
 Ambiente de teste -
+
+Para esse ambiente de teste, será utilizado duas máquinas virtuais, uma que será o servidor que 
 
 ![image](https://github.com/larissalg9/Capturar-trafego-SIP-/assets/58262383/30f94776-a605-47de-9432-07aa2bff167b)
 
