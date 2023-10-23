@@ -5,6 +5,7 @@ Oque seria o SIP?
 O protocolo SIP é utilizado em chamadas de voz sobre IP ou VoIP. Isso permite que dois usuários se conectem e realizem uma comunicação, através de dois dispositivos, e assim se realizar a comunicação através de uma rede IP.
 
 Topologia de uma rede com implementação de SIP -
+
 ![image](https://github.com/larissalg9/Capturar-trafego-SIP-/assets/58262383/a9611707-5dc9-405c-b6e0-49a1904c0dd4)
 
 Quais são as vantagens de utlizar SIP?
