@@ -1,33 +1,41 @@
 # Capturar-trafego-SIP-
 Apresentação de Redes Convergentes referente a capturar tráfego SIP.
 
-![image](https://github.com/larissalg9/Capturar-trafego-SIP-/assets/58262383/30f94776-a605-47de-9432-07aa2bff167b)
-![image](https://github.com/larissalg9/Capturar-trafego-SIP-/assets/58262383/a9611707-5dc9-405c-b6e0-49a1904c0dd4)
-
-
-
 Oque seria o SIP?
 
+
+
+Topologia de uma rede com implementação de SIP -
+![image](https://github.com/larissalg9/Capturar-trafego-SIP-/assets/58262383/a9611707-5dc9-405c-b6e0-49a1904c0dd4)
 
 Quais a vantagens de capturar a protocolo SIP?
 
 
-Ambiente de teste
+Ambiente de teste -
 
-Asterick - 
+
+![image](https://github.com/larissalg9/Capturar-trafego-SIP-/assets/58262383/30f94776-a605-47de-9432-07aa2bff167b)
+
+Quais ferramentas serão utilizadas? 
+
+Asterick -
+
 
 ![image](https://github.com/larissalg9/Capturar-trafego-SIP-/assets/58262383/007a3dfd-3385-4ba7-bea5-48937f8ccf38)
 
 FreePBX -
 
+
 ![image](https://github.com/larissalg9/Capturar-trafego-SIP-/assets/58262383/b8d42f40-c634-47b3-ba06-147e2adc8526)
 
 Softfone - 
 
+
 ![image](https://github.com/larissalg9/Capturar-trafego-SIP-/assets/58262383/4885d13e-8427-4f85-a3b5-33219efbfa85)
 
 
-Configuração da máquina
+Configuração do servidor SIP e máquina softfone+wireshark -
+
 
 ![image](https://github.com/larissalg9/Capturar-trafego-SIP-/assets/58262383/21e30994-98b8-4c50-b8f6-f291d38a836b)
 
