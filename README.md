@@ -11,9 +11,15 @@ Topologia de uma rede com implementação de SIP -
 Quais são as vantagens de utlizar SIP?
 
 Além de deixar o preço das ligações telefônicas mais baratas, o VoIP ainda permite que várias chamadas ocupam o mesmo espaço que é preenchido somente por uma ligação na telefonia tradicional, todas essas ligações feitas por meio do SIP podem ser armazenadas. Inclusive, como essas chamadas estarão associadas ao registro do usuário, é possível saber quem as fez e quem recebeu. Assim, tem-se um controle maior das informações. Também é uma maneira de garantir a segurança dos dados.
-Qual é a necessidade de capturar a protocolo SIP?
 
-![image](https://github.com/larissalg9/Capturar-trafego-SIP-/assets/58262383/3dcf6d61-ee6a-4fcb-bb69-8c333f26464c)
+![image](https://github.com/larissalg9/Capturar-trafego-SIP-/assets/58262383/41bf1c75-63cf-40fe-b6f4-a2cd7ad47c12)
+
+Qual é a necessidade de capturar o tráfico do protocolo SIP?
+
+
+
+![image](https://github.com/larissalg9/Capturar-trafego-SIP-/assets/58262383/0e384932-eeb7-4c2d-9bff-2e34a2beb506)
+
 
 Ambiente de teste -
 
