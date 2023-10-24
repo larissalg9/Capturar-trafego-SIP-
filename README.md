@@ -70,25 +70,41 @@ Foi utilizado o FreePBX na versão 16, e o Asterisk na versão 18.
 # Como instalar sngrep?
 
 $ sudo -i
+
 $ cd /home/user/Downloads
+
 $ wget https://github.com/irontec/sngrep/archive/master.zip
+
 $ apt-get install unzip
+
 $ unzip master.zip
+
 $ cd sngrep-master/
+
 $ ./bootstrap.sh
+
 $ apt-get install autoconf
+
 $ ./bootstrap.sh
+
 $ apt-get install libpcap0.8-dev
+
 $ apt-get install libncurses5-dev
+
 $ ./configure
+
 $ make
+
 $ make install
+
 $ sngrep
 
 # Como instalar o wireshark - 
 
 $ sudo apt install wireshark
+
 $ sudo dpkg-reconfigure wireshark-common
+
 $ sudo usermod -aG wireshark (user)
 
 # Captura no sngrep -
