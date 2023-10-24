@@ -32,7 +32,7 @@ Para esse ambiente de teste, será utilizado duas máquinas virtuais, uma que se
 
 # Asterick
 
-É um servidor de voip, ele é utilizado para estabelecer e controlar chamadas telefônicas, tanto para destinos de rede telefônica pública comutada, para também dispositivos ou serviços de voz sobre protocolo internet redes (VoIP).
+É um software no qual ele é utilizado para estabelecer e controlar chamadas telefônicas, no mesmo a implementação de recursos encontrados em um PABX convencional, e também dispositivos ou serviços de voz utilizando a tecnologia de VoIP.
 O asterisk é gratuito e de código aberto.
 
 ![image](https://github.com/larissalg9/Capturar-trafego-SIP-/assets/58262383/007a3dfd-3385-4ba7-bea5-48937f8ccf38)
