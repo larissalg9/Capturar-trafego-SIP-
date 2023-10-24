@@ -51,8 +51,18 @@ O asterisk é gratuito e de código aberto.
 
 # Configuração do servidor SIP e máquina softfone+wireshark
 
+*Imagem de configuração de máquina virtual do servidor SIP*
+![image](https://github.com/larissalg9/Capturar-trafego-SIP-/assets/58262383/a5a84807-86e5-4f44-a978-f6d96295f0a9)
+
+*Imagem de configuração de máquina virtual do softfone e wireshark*
+![image](https://github.com/larissalg9/Capturar-trafego-SIP-/assets/58262383/b19bf16e-0b3a-4fd4-b72f-a87c2bfe1cee)
+
+Foi utilizado o FreePBX na versão 16, e o Asterisk na versão 18.
+
+*Imagem de ilustração_1*
 ![image](https://github.com/larissalg9/Capturar-trafego-SIP-/assets/58262383/21e30994-98b8-4c50-b8f6-f291d38a836b)
 
+*Imagem de ilustração_2*
 ![image](https://github.com/larissalg9/Capturar-trafego-SIP-/assets/58262383/ff7b0386-baea-4a57-9ad0-521866646319)
 
 # Como instalar sngrep?
