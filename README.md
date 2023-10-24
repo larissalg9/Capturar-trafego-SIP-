@@ -17,10 +17,10 @@ Além de deixar o preço das ligações telefônicas mais baratas, o VoIP ainda 
 
 # Qual é a necessidade de capturar o tráfico do protocolo SIP?
 
-
+Analisar e verificar a qualidade da rede e suas ligações, e necessário buscarmos informações que possam mostrar qual está sendo a causa de um desempenho ruim, fora isso também conseguimos verificar a originação de chamadas, destino da chamada, duração da chamada, status da chamada, e qualidade da chamada. 
+Além disso podemos verificar estatísticas para jitter, latência, perda de pacotes e MOS (pontuação média de opinião), assim tendo auxilio para o administrador da rede, trazendo a amplificação do tráfego de VoIP se alguns problemas surgirem na sua infraestrutura de rede. 
 
 ![image](https://github.com/larissalg9/Capturar-trafego-SIP-/assets/58262383/0e384932-eeb7-4c2d-9bff-2e34a2beb506)
-
 
 # Ambiente de teste
 
